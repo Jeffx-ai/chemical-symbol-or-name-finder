@@ -143,7 +143,7 @@ public class ElementsAndTheirSymbols{
             }
         }
         else{
-            System.out.println(name+" isn't a chemical element :)");
+            System.out.println(name+" seems to not be a chemical name  :)");
         }
         System.out.println("___________________________________________________________________\n");
         }
